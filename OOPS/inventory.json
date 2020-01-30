@@ -1,0 +1,38 @@
+{
+    "Rice": [
+        {
+            "Name": "Basmati",
+            "Weight": "10",
+            "Price": "50"
+        },
+        {
+            "Name": "HMT",
+            "Weight": "20",
+            "Price": "70"
+        }
+    ],
+    "Wheat": [
+        {
+            "Name": "Brown",
+            "Weight": "22",
+            "Price": "42"
+        },
+        {
+            "Name": "Sharbati",
+            "Weight": "6",
+            "Price": "30"
+        }
+    ],
+    "Pulses": [
+        {
+            "Name": "Moong",
+            "Weight": "30",
+            "Price": "70"
+        },
+        {
+            "Name": "Tur",
+            "Weight": "15",
+            "Price": "50"
+        }
+    ]
+}
